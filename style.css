@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/636b5e138fd7c9613e2a8b61/1675334640060-7C0U4PLRM6QQHY0QMMTB/OBMC+Quadrangle.jpg);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(14, 14, 14);
+  color: white;
+  text-align: center;
+}
